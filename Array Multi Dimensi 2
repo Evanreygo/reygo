@@ -1,3 +1,4 @@
+public class ArrayMultiDimension {
 public void tampil(String n) {
         System.out.println("Identitas Siswa Angkatan 24");
     }
@@ -16,3 +17,5 @@ public void tampil(String n) {
         siswa.tampil(null);
         siswa.namanis(0);
     }
+    }
+                                                                                                                                                                                                
